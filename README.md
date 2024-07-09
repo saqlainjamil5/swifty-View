@@ -22,7 +22,7 @@ SwiftyViews is a SwiftUI-based project that demonstrates the creation and usage 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/SwiftyViews.git
+    git clone https://github.com/saqlainjamil5/SwiftyViews.git
     ```
 2. Open the project in Xcode:
     ```bash
